@@ -1,0 +1,28 @@
+[
+  {
+	"Author": "Strates",
+	"Name": "TeleportToFlag",
+	"InternalName": "TeleportToFlag",
+	"AssemblyVersion": "1.0.0.0",
+	"Description": "Will find the closest Aetheryte when Control-clicking a map marker in chat and automatically teleport to it.",
+	"ApplicableVersion": "any",
+	"Tags": [
+		"map",
+		"flag",
+		"marker",
+		"teleport",
+		"aetheryte"
+	],
+	"DalamudApiLevel": 9,
+	"LoadRequiredState": 0,
+	"LoadSync": false,
+	"CanUnloadAsync": false,
+	"LoadPriority": 0,
+	"Punchline": "Teleport to map markers by Control-clicking them in chat.",
+	"AcceptsFeedback": true,
+	"DownloadLinkInstall": "https://github.com/strates/TeleportToFlag/releases/download/v1.0.0.0/latest.zip",
+	"DownloadLinkTesting": "https://github.com/strates/TeleportToFlag/releases/download/v1.0.0.0/latest.zip",
+	"DownloadLinkUpdate": "https://github.com/strates/TeleportToFlag/releases/download/v1.0.0.0/latest.zip",
+	"RepoUrl": "https://github.com/strates/TeleportToFlag"
+	}
+]
